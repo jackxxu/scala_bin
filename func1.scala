@@ -12,6 +12,8 @@ var increment1 = (x: Int) => x + 1
 // var increment2 = _ + 1
 
 println(increment1(3))
+
+
 // println(increment2(3))
 
 // val lessThan = new Function2[Int, Int, Boolean] {
