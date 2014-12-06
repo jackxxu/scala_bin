@@ -9,3 +9,7 @@ val b = (_: Int) > 0 && (_: Int) > 0
 
 println(b(1, -1))
 println(b(1, 2))
+
+
+def sum(a: Int, b: Int, c: Int) = a + b + c
+
